@@ -1,0 +1,10 @@
+{
+  "id": "matn.ext.fontpicker",
+  "name": "Interactive Font Picker",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Interactive modal to scan, preview, and select system TrueType/OpenType fonts",
+  "category": "tools",
+  "type": "plugin",
+  "repository": "https://github.com/matn-extensions/ext-fontpicker"
+}
